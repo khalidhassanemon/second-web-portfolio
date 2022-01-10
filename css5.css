@@ -1,0 +1,20 @@
+.introduction{
+    text-align: center;
+    border: 1px solid red;
+    font-weight: bold;
+    background-color: darkslategray;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    margin-right: 500px;
+    margin-left: 500px;
+    border-radius: 10%;
+}
+.img{
+    
+    text-align:center;
+    background-color:blue;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
