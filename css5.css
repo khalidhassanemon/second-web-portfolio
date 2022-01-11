@@ -2,19 +2,62 @@
     text-align: center;
     border: 1px solid red;
     font-weight: bold;
-    background-color: darkslategray;
+    background-color:dimgray;
     margin-top: 10px ;
     margin-bottom: 10px;
-    margin-right: 500px;
-    margin-left: 500px;
-    border-radius: 10%;
+    margin-left: 20px;
+    border-radius: 2%;
+    padding: 10px 10px 10px;
+    float: left;
+}
+#image{
+    height: 40%;
+    width: 40%;
 }
 .img{
-    
     text-align:center;
-    background-color:blue;
-    margin-top: 10px ;
+    border-radius: 1%;
+    float: right;
+    margin-top: 10px;
+    margin-left: 600px;
+    margin-right: 50px;
+}
+.img:hover{
+    background-color: blue;
+}
+.btn{
+    float: right;
+    margin-right: 400px;
+    margin-bottom: 200px;
+}
+
+#color{
+    background-color: seagreen;
+    margin-top: 5px;
+}
+#imag2{
+  height: 400px;
+  width: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#imag2:hover{
+    background-color: blue;
+}
+#bio{
+    margin-top: -300px;
     margin-bottom: 10px;
-    margin-right: 200px;
-    margin-left: 200px;
+    height: 180px;
+    width: 550px;
+    margin-right: 150px;
+    background-color: dimgray;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+#btn2{
+    background-color: forestgreen;
+    margin-left: 100px;
+    margin-top: -75px;
+    float: right;
 }
