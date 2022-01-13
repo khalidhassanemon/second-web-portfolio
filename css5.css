@@ -67,6 +67,7 @@
 }
 .third-part:hover{
      background-color: lightseagreen;
+     margin-bottom: 80px;
 }
 #imag3{
     height: 295px;
@@ -87,4 +88,16 @@
     margin-top: -300px;
     margin-right: 60px;
     padding-left: 30px;
+}
+.fourth{
+    text-align: center;
+    background-color:turquoise;
+}
+.last{
+    background-color:rgb(231, 9, 176);
+    border-radius: 3px;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
